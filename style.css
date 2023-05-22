@@ -34,7 +34,7 @@
  }
  /* main section */
  .main{
-    background-image: url('../images/hero_bg.avif');
+    background-image: url(./images/hero_bg.avif);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -165,17 +165,17 @@
   background-repeat: no-repeat;
 }
 #item2{
-    background-image: url('../images/pexels-shvets-anna-2574474.jpg');  
+    background-image: url(./images/pexels-shvets-anna-2574474.jpg);  
     background-size: cover;
     background-repeat: no-repeat;
   }
   #item3{
-    background-image: url('../images/pexels-moussa-idrissi-15531326.jpg');  
+    background-image: url(./images/pexels-moussa-idrissi-15531326.jpg);  
     background-size: cover;
     background-repeat: no-repeat;
   }
   #item4{
-    background-image: url('../images/pexels-evg-kowalievska-1366879.jpg');  
+    background-image: url(./images/pexels-evg-kowalievska-1366879.jpg);  
     background-size: cover;
     background-repeat: no-repeat;
   }
